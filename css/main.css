@@ -1,0 +1,44 @@
+img {
+    max-width: 150px;
+    height: auto;
+    float: inline-start;
+    padding-right: 15px;
+    margin-top: 15px;
+    padding-bottom: 0px;
+    padding-left: 10px;
+  }
+
+div {
+    width: 80%;
+    margin: auto;
+    background-color: rgb(216, 224, 232);
+}
+
+p {
+    text-align: justify;
+    line-height: 1.3rem;
+    padding: 10px;
+    padding-right: 20px;
+    color: rgb(28, 42, 53);
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.15rem;
+}
+
+dd {
+    margin: 0%;
+}
+
+
+h1 {
+    background-color: rgb(128, 134, 154);
+    color: azure;
+    padding: 20px;
+}
+
+dl {
+    background-color: rgb(196, 201, 205);
+    padding: 10px;
+}
