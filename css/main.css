@@ -9,17 +9,18 @@ img {
   }
 
 div {
-    width: 80%;
+    width: 70%;
     margin: auto;
     background-color: rgb(216, 224, 232);
 }
 
 p {
     text-align: justify;
-    line-height: 1.3rem;
+    line-height: 1.4rem;
     padding: 10px;
     padding-right: 20px;
     color: rgb(28, 42, 53);
+    font-size: 1.14rem;
 }
 
 dt {
@@ -36,6 +37,7 @@ h1 {
     background-color: rgb(128, 134, 154);
     color: azure;
     padding: 20px;
+    font-size: 2.2rem;
 }
 
 dl {
