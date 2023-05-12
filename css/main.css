@@ -39,6 +39,7 @@ h1 {
 }
 
 dl {
-    background-color: rgb(196, 201, 205);
     padding: 10px;
+    background-color: rgb(110, 114, 135);
+    color: azure;
 }
